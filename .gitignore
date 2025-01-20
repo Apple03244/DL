@@ -2,4 +2,5 @@
 DL
 nsmc
 Data
-Main/Simple_Model.keras
+Base/Simple_Model.keras
+ModelTuning/NaverReview.csv
